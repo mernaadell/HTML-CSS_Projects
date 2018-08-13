@@ -1,0 +1,255 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: black  url("http://www.tpni.com/wp-content/uploads/sites/33/2015/10/Gradient-Background-grey.jpg") no-repeat fixed center;
+    background-size: cover;
+
+}
+.div1{
+    background-color:#B4BDC4;
+    width: auto;
+    height: 25px;
+    padding:12px;
+    border-bottom: dashed;
+    border-color: #EAEAED;
+    text-decoration: ;
+}
+.div1 h2 a{
+    color : #636375;
+    font-size: 25px;
+    margin-left: 90px;
+      text-decoration: none;
+      float:left;
+
+}
+.bar{
+    list-style: none;
+    float:right;
+    margin-right: 40px;
+    margin-top:5px;
+    
+}
+.bar li{
+    display: inline-block;
+}
+.div1 h2 a:hover
+{
+    color: black;
+}
+.bar li a
+{
+    text-decoration: none;
+    margin: 20px;
+    font-family: "Courier New";
+    font-size: 19px;
+    color: #636363;
+    
+    
+}
+.bar li a:hover{
+    color: black;
+}
+.div2
+{ width: auto;
+height: 160px;
+background: url(005-wood-melamine-subttle-pattern-background-pat.jpg) repeat fixed  ;
+
+
+}
+
+.head{
+    margin-left: 100px;
+    padding: 10px;
+    font-size: 45px;
+    color:white;
+    font-family: "sans-serif";
+    
+    
+    
+}
+.head2{
+    color:white;
+    margin-left:120px;
+    font-size:15px;
+    font-weight: bold;
+    
+    
+}
+.div3{
+    float:left;
+    margin-top:35px;
+}
+.div4
+{   width: 170px;
+  height: 30px;
+  padding: 18px;
+margin-right: 130px;
+    background-color: #8DB22E;
+    float:right;
+     border-width:  0px 5px ;
+ border-bottom-width: 3px;
+ border-style:solid;
+ border-color: white;
+ border-radius: 15px;
+    
+}
+.link
+{
+text-decoration: none;
+
+font-size: 25px;
+color: white;
+font-family: "Georgia, serif";
+}
+.div5
+{  float: right;
+    width :700px;
+  height: 100px;
+ 
+ margin-top:40px;
+ margin-right: 0px;
+  
+}
+
+.list li{
+  display:inline-block;
+ 
+
+}
+.list li a{
+   color:white;
+   padding: 15px;
+   font-size:25px;
+    list-style:none;
+    text-decoration: none;
+    
+}
+.list li a:hover{
+    color:yellow;
+}
+.div6{
+    width: auto;
+    height: 450px;
+    background: url(que-huong13.jpg) no-repeat scroll center;
+    background-size:cover;
+    border :1px  solid brown;
+      
+}
+.div7{
+    width:400px;
+    height:100px;
+    padding:40px;
+    margin-left: 150px;
+}
+.par1
+{
+    font-size:27px;
+}
+.par2{
+    font-size:40px;
+}
+.div8{
+ float: left;
+ width: 400px;
+ height: 250px;
+ margin: 50px;
+ 
+
+}
+.div9{
+ width:82%;
+ height: 500px;
+ 
+}
+img:hover
+{
+ box-shadow: 0 0 5px 3px rgba(0, 140, 186, 0.5);
+}
+.div10
+{ float:right;
+width: 400px;
+ height: 250px;
+ margin: 50px;
+ 
+ 
+}
+.par3
+{
+ margin-top:20px;
+ margin-bottom: 20px;
+ color:#777575;
+}
+.div11{
+ width: auto;
+ height: 170px;
+ background: #DDDDDD  ;
+ padding: 50px;
+ line-height: 30px;
+ border: 1px solid #A5A5A5;
+}
+.div12
+{
+ width: 33.3%;
+ height: 100px;
+ float: left;
+ 
+}
+
+.div13
+{
+ width: 48.3%;
+ height: 100px;
+ float: left;
+ 
+}
+.div14
+{ float: right;
+ width: 15%;
+ height: 100px;
+}
+.inp{
+ height: 25px;
+}
+.div11 a
+{
+ color:brown;
+}
+.div15
+{
+ width: auto;
+ height: 100px;
+ 
+}
+.fin
+{
+ float: left;
+ list-style: none;
+ 
+ margin-left: 100px;
+ 
+}
+.fin li{
+ display: inline-block;
+ padding: 20px;
+ font-size: 14px;
+ color: #545252;
+}
+.fin li a
+{
+ color: #545252;
+ text-decoration: none;
+}
+.fin li a:hover
+{
+ color :brown;
+}
+.div16
+{
+ float:right;
+ width: 400px;
+ height: 50px;
+ margin: 10px;
+}
